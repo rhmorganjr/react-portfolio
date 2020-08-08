@@ -13,3 +13,5 @@ Run 'npm start' from a terminal in the projects directory.
 https://github.com/rhmorganjr/react-portfolio
 
 ## GitPage
+https://rhmorganjr.github.io/react-portfolio/
+
